@@ -7,7 +7,7 @@ Sources:
 
 PIMA Diabetes Dataset
 
-Heart Disease Dataset
+
 
 Type: Tabular medical data with clinical and diagnostic features.
 
@@ -23,7 +23,7 @@ Evaluation: Use F1 Score and AUC-ROC curves to assess model performance.
 Insights: Deliver data-driven recommendations for early diagnosis and intervention.
 
  Outcome
-Accurate disease prediction models for diabetes or heart disease.
+Accurate disease prediction models for diabetes 
 
 Interpretable results to assist healthcare professionals.
 
